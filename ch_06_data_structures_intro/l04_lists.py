@@ -1,0 +1,5 @@
+def last_work_experience(work_experiences):
+    if not work_experiences:
+        return None
+    # return work_experiences[len(work_experiences) - 1]
+    return work_experiences[-1]

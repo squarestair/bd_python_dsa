@@ -1,6 +1,6 @@
 import random
 from l07_min_and_max import *
-from l07_user import *
+from l05_user import *
 
 run_cases = [
     (5, "Blake#0", "Carrell#14"),
